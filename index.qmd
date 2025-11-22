@@ -1,0 +1,125 @@
+---
+title: ""
+page-layout: custom
+---
+
+::: {.hero-section}
+# Welcome to The Philomath
+
+::: {.centered-text}
+*Philomath* (φιλομαθής) — from Greek *philos* (beloved) + *manthanein* (to learn)  
+**A lover of learning and studying**
+:::
+
+---
+
+## About
+
+The Philomath is a space dedicated to rigorous thinking and accessible education. Here, we explore data analytics, statistics, and probability through a conversational lens designed for critical thinkers.
+
+---
+
+## Current Projects
+
+### Data Analytics for Critical Thinkers
+
+A comprehensive textbook on statistics, probability, and econometrics. Written in a conversational, question-and-answer format, this book makes complex analytical concepts accessible to beginners and seasoned practitioners alike.
+
+**Authors:** Gautam Sethi & Noor Sethi  
+**Topics:** Bayesian inference, frequentist research, regression analysis, hypothesis testing, and advanced modeling
+
+[Read the book →](https://analytics.thephilomath.org){.btn .btn-primary}
+
+---
+
+## About the Authors
+
+**Gautam Sethi** and **Noor Sethi** are educators and practitioners passionate about making data analytics accessible. Their work emphasizes clear thinking, rigorous methods, and practical application.
+
+---
+
+## Contact
+
+For inquiries, collaboration, or feedback:  
+📧 [contact@thephilomath.org](mailto:contact@thephilomath.org)
+
+:::
+
+<style>
+.hero-section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: 'EB Garamond', Georgia, serif;
+  line-height: 1.8;
+}
+
+.hero-section h1 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: #003262;
+  text-align: center;
+}
+
+.centered-text {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+}
+
+.hero-section h2 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #003262;
+  border-bottom: 2px solid: #FDB515;
+  padding-bottom: 0.5rem;
+}
+
+.hero-section h3 {
+  font-size: 1.4rem;
+  margin-top: 1.5rem;
+  color: #003262;
+}
+
+.hero-section p {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.hero-section em {
+  font-style: italic;
+  color: #555;
+}
+
+.hero-section hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 2rem 0;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  margin-top: 1rem;
+  background-color: #003262;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 600;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #FDB515;
+  color: #003262 !important;
+}
+
+.hero-section a {
+  color: #003262;
+}
+
+.hero-section a:hover {
+  text-decoration: underline;
+}
+</style>
